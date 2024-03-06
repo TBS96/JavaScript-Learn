@@ -22,8 +22,8 @@ var homeAddress = "96, MM NAGAR. KOL-108";
 console.log(myName, momName, homeAddress);
 
 
-var name = typeof "Prantik\'s";
-console.log(name);
+var myName1 = typeof "Prantik\'s";
+console.log(myName1);
 
 
 // For Boolean:
@@ -42,3 +42,11 @@ console.log(isSubs, typeof isNotSub);
  x = "Subhash";   //updated value-2
 
  console.log(x);    // it will print the updated value of x, as console.log() line is below the above lines. JS reads everything line-wise, so in JS its very imp. to maintain the order.
+
+
+// For Array with 'var':
+
+var publicsAmt = [20, 14, 69, 78, 100, 14, 56, 50, 1000];
+var friendsName = ["Prantik", "Deepa", "Subhash"];
+
+console.log(friendsName, publicsAmt);
