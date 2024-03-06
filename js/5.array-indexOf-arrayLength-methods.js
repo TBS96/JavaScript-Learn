@@ -3,7 +3,7 @@ var friendsName = ["Prantik", "Deepa", "Subhash"];
 
 var indexOfPublicsAmt = publicsAmt[5];
 var indexOfFriendsName = friendsName[1];
-// console.log(typeof publicsAmt);     // O/P: object
+// console.log(typeof publicsAmt);     // Output: object
 
 
 // To find length of array:
