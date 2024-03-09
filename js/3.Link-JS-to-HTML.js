@@ -7,8 +7,8 @@ console.log('Hello World');
 // document.write("Hello world")
 
 // To show output as alert when opening page or reloading page (not much recommended to show output. mainly used in page submissions):
-// alert('Hello Everyone')
-// alert(40+40)
+alert('Hello Everyone');
+alert(40+40);
 
 // To show output in terminal with the help of node js (only console.log() will work. alert() & document.write() wont work in terminal as these two are mainly based on browsers):
-console.log(30+25)
+// console.log(30+25)
