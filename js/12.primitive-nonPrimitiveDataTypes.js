@@ -38,7 +38,7 @@ person1.name = "Deepa";
 // console.log(newPerson1);   // o/p: { name: 'Prantik' }
 
 // Now, after changing name to Deepa:
-console.log(newPerson1);   // o/p: { name: 'Deepa' }
+console.log(person1);   // o/p: { name: 'Deepa' }
 console.log(newPerson1);   // o/p: { name: 'Deepa' }
 
 
