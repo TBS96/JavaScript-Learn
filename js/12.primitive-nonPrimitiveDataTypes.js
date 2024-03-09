@@ -42,7 +42,7 @@ console.log(person1);   // o/p: { name: 'Deepa' }
 console.log(newPerson1);   // o/p: { name: 'Deepa' }
 
 
-// In non-primitive datatypes, data can't be copied. If changed in one place, then it will change everywhere and give same result. As it dont take static memory, it takes heap memory.
+// In non-primitive datatypes, data can't be copied. If changed in one place, then it will change everywhere and give same result. As it dont take stack memory, it takes heap memory.
 
 // Whereas, in primitive datatypes, data can be copied and store in different variable, as it takes stack memory which means. data will store in separate stacks or separate memory blocks.
 
