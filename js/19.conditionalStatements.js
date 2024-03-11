@@ -8,7 +8,7 @@ let myBudget = 70;
 
 // if burgerPrice is greater than myBudget, then cant have it:
 // if(burgerPrice > myBudget){
-    // console.log("I cant have it");    //condition is false
+    // console.log("I cant have it");    //condition is true
 // }
 
 // Now updating the price of myBudget to 70 & check if burgerPrice is less than or equal to myBudget, then i'll have it:
@@ -23,5 +23,5 @@ if(burgerPrice >= myBudget){
     console.log("I cant have it");    //condition is false
 }
 else{
-    console.log("I can have it");   // printed
+    console.log("Bring more money");   // printed
 }
