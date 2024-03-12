@@ -6,7 +6,7 @@
     <title>Inline JS</title>
 </head>
 <body>
-    
+
 
     <h1>Hello World</h1>
 
@@ -14,7 +14,21 @@
 
     <!-- Inline JS, where JS code is written inside body -->
     <script>
-        console.log(10+30);
+        // console.log(10+30);
+
+
+        // To run in browser:
+        document.write("Sum of two numbers:");
+        document.write("<br>");
+        a = parseInt(prompt("Enter a:"));
+        b = parseInt(prompt("Enter b:"));
+        c = a + b;
+        document.write("a = ", a);
+        document.write("<br>");
+        document.write("b = ", b);
+        document.write("<br>");
+        document.write("a + b = ", c);
+
     </script>
 </body>
 </html>
