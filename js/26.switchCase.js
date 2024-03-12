@@ -15,7 +15,7 @@ switch(x)
 }
 
 
-// Taking as user input in Node.js:
+// Taking as user input in Node-js:
 // const readline = require('readline').createInterface({
 //     input: process.stdin,
 //     output: process.stdout
