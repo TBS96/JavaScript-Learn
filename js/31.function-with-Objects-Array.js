@@ -36,7 +36,9 @@
 
 
 
+
 // Funtion with array:
+
 // const a = [100, 103, 105, 102];
 
 // function arrayElements(anyArray)
