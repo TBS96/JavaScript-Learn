@@ -1,4 +1,4 @@
-// creating(defining) function without parameter:
+// creating(defining) function without parameter & arguments:
 // function myFunc1()
 // {
 //     console.log("My name is Prantik & I'm from India.");
