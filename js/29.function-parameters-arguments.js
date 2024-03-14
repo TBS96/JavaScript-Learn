@@ -4,7 +4,7 @@ function addNum(a, b)
     // console.log(`Sum of ${a} and ${b} =`, a+b);
     // console.log("Sum of " + a + " and " + b + " =", a+b);
 
-    // to take this outsde the function using 'return' value:
+    // to take this outside the function using 'return' value:
     let total= a+b;
     return total;
 }
