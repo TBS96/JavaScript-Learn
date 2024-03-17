@@ -63,5 +63,5 @@ numbers.forEach((n)=>{
 // 9
 
 
-
+// forEach() is used to loop on an array.
 // forEach() cant return outside the function. if trying to return outside function it will show o/p as "undefined".
