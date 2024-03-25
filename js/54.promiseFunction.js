@@ -63,6 +63,6 @@ promiseOne()
 
 
 // Note:
-// From LOC 7-17, we are defining Promise. from LOC 18-22, we are calling function using then() and catch().
+// From LOC 9-19, we are defining Promise. from LOC 20-26, we are calling function using then() and catch().
 // then() gets data from 'resolve' and catch() gets data from 'reject'.
 // also 'value' parameter gets data from 'resolve' and 'error' parameter gets data from 'reject'.
